@@ -74,8 +74,8 @@ The model includes:
 - direction-dependent force switching based on the applied excitation;
 - contact/overlap prevention logic between the bar and side masses;
 - acceleration, velocity, and position integration for body motion;
-- optional VR-style visualization blocks, depending on local Simulink installation support.
-- MATLAB-based 2D animation as a GIF
+- optional VR-style visualization blocks, depending on local Simulink installation support;
+- MATLAB-based 2D animation as a GIF.
 
 ## Requirements
 
