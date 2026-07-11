@@ -5,6 +5,7 @@ This repository contains a MATLAB/Simulink model of a simplified shake-weight/du
 The repository demonstrates physical system modeling in Simulink: parameter definition, force-balance logic, state integration, conditional switching, contact handling, and basic motion visualization.
 
 ![Model thumbnail](media/model_thumbnail.pdf)
+![shake_weight_animation](shake_weight_animation.gif)
 
 
 ### Legacy VR visualization note
