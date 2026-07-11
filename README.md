@@ -6,7 +6,7 @@ The repository demonstrates physical system modeling in Simulink: parameter defi
 
 ![Model thumbnail](media/model_thumbnail.pdf)
 
-![shake_weight_animation](shake_weight_animation.gif)
+![shake_weight_animation](media/shake_weight_animation.gif)
 
 
 ### Legacy VR visualization note
