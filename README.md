@@ -60,7 +60,6 @@ The GIF reconstructs the mechanism from the model outputs: left mass position, c
 │   └── shake_weight_animation.gif
 ├── results/
 │   └── .gitkeep
-│   └── simOut.mat
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
