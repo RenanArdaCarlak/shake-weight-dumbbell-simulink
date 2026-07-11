@@ -1,0 +1,29 @@
+# MATLAB / Simulink generated files
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.mltbx
+*.mlappinstall
+*.prj
+*.autosave
+slprj/
+codegen/
+work/
+
+# Simulink cache and generated reports
+*.slxc
+*.mdl.r*
+*_ert_rtw/
+*_grt_rtw/
+html/
+
+# Results generated locally
+results/*
+!results/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

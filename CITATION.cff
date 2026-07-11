@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Dynamic Simulation of a Spring-Mass Shake-Weight Mechanism in Simulink"
+authors:
+  - family-names: "Carlak"
+    given-names: "Renan Arda"
+year: 2026
+message: "If you reference this work, cite the repository and author. Citation does not grant reuse permission; see LICENSE."
